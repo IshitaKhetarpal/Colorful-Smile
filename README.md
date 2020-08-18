@@ -2,14 +2,14 @@
 
 This project only works on Windows 10
 
-Get your enviroment ready
-Install Python 3
+**Pre-requisites**
+-Install Python 3
 
-Install Pillow (pip install Pillow)
+-Install Pillow (pip install Pillow)
 
-Install OpenCV (pip install opencv-python)
+-Install OpenCV (pip install opencv-python)
 
-Install Requests (pip install requests)
+-Install Requests (pip install requests)
 
 
 Files in the repository
