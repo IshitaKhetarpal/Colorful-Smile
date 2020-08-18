@@ -1,4 +1,4 @@
-# smiledetector
+# Colorful Smile
 
 This project only works on Windows 10
 
