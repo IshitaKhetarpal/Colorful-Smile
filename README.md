@@ -3,6 +3,7 @@
 This project only works on Windows 10
 
 **Pre-requisites**
+
 -Install Python 3
 
 -Install Pillow (pip install Pillow)
