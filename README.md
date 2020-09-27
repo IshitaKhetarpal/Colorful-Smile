@@ -22,7 +22,7 @@ Files in the repository
 3)face_train.py - Final file after the project for training the face api
 
 
-[Watch the video]()
+[Watch the video](https://youtu.be/pes0oxhew6E)
 
 [Offical documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/Face/Overview?WT.mc_id=faceapi-cloudguru-heboelma)
 
